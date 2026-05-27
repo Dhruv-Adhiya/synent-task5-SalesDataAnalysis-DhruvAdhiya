@@ -1,0 +1,23 @@
+
+===================================================
+                BUSINESS INSIGHTS
+===================================================
+
+1. Highest Revenue Month : 2018-11
+   Revenue Generated     : 117938.16
+
+2. Best Selling Product  : Canon imageCLASS 2200 Advanced Copier
+   Total Sales           : 61599.82
+
+3. Highest Sales Category : Technology
+   Total Sales            : 827455.87
+
+4. Lowest Sales Category : Office Supplies
+   Total Sales           : 705422.33
+
+5. Region with Highest Sales : West
+   Total Sales               : 710219.68
+
+===================================================
+        ANALYSIS COMPLETED SUCCESSFULLY
+===================================================
